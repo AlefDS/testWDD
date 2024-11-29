@@ -1,0 +1,14 @@
+
+body{
+	background-attachment: fixed;
+	background-position: center;
+	color: blue; 
+	
+	text-align: center;
+}
+
+h1{
+	font-family: "Montserrat", sans-serif;
+	font-weight: <weight>;
+	font-style: normal;
+}
